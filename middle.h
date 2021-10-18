@@ -18,9 +18,9 @@ int itc_second_max_num(long long num1);
 int itc_second_simple_max_num(long long num1);
 long long itc_bin_num(long long num1);
 long long itc_oct_num(long long num1);
-/*int itc_rev_bin_num(long long num1);
+int itc_rev_bin_num(long long num1);
 int itc_rev_oct_num(long long num1);
-int itc_covert_num(long long num1, int ss);
+/*int itc_covert_num(long long num1, int ss);
 int itc_rev_covert_num(long long num1, int ss);*/
 int itc_abs(int num1);
 double itc_pow(int n, int i);
